@@ -16,8 +16,7 @@ ctx.fillStyle = "white";
 ctx.fillRect(0, 0, CANVAS_SIZE, CANVAS_SIZE)
 
 
-
-let painting = false;
+7let painting = false;
 let filling = false;
 
 function stopPainting () {
